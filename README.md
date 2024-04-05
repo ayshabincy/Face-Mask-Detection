@@ -4,7 +4,7 @@ This project aims to develop a deep learning model to detect whether a person is
 # Overview
 With the ongoing COVID-19 pandemic, wearing masks has become a crucial preventive measure to reduce virus transmission. Automated mask detection systems can assist in enforcing mask-wearing guidelines in public spaces, workplaces, and healthcare facilities. In this project, we leverage CNNs, a class of deep learning models well-suited for image classification tasks, to detect the presence of masks in images.
 
-#Key Features
+# Key Features
 Data Collection: Gather a dataset of labeled images containing people with and without masks, ensuring diversity in lighting conditions, angles, and backgrounds.
 
 Data Preprocessing: Preprocess the images by resizing them to a standard size (e.g., 128x128 pixels) and normalizing pixel values to the range [0, 1].
